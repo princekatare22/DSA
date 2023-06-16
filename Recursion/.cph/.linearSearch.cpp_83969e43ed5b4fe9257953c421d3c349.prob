@@ -1,0 +1,1 @@
+{"name":"Local: linearSearch","url":"e:\\DSA\\Recursion\\linearSearch.cpp","tests":[{"id":1686906698415,"input":"5\n5 10 2 3 18\n10","output":"present"},{"id":1686906857527,"input":"5\n5 10 2 3 18\n15","output":"not present"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\Recursion\\linearSearch.cpp","group":"local","local":true}
